@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 {
     "pipeline": {
         "name": "test-pipeline",
         "status": "Step2-testing"
     }
 }
+=======
+{"empty"}
+>>>>>>> 70277c412088a60168351c703acfaf08962f7e7f
