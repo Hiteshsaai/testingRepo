@@ -1,6 +1,6 @@
 {
     "pipeline": {
         "name": "test-pipeline",
-        "status": "InProgress"
+        "status": "Step2-testing"
     }
 }
